@@ -10,12 +10,19 @@ O currículo digital desenvolvido possui as seguintes seções:
 - **Cards de Projetos do GitHub**: Apresentação de projetos desenvolvidos e hospedados no GitHub, organizados em cards para facilitar a visualização.
 - **Cards de Sugestão de Conteúdo**: Cards sugerindo conteúdos relevantes, como artigos, vídeos ou cursos relacionados ao perfil profissional.
 - **Cards com Amigos**: Uma seção dedicada a mostrar colegas e parceiros de projetos, organizados também em cards.
-- **Página de Direcionamento**: Uma página adicional que serve como ponto de navegação para diferentes seções ou páginas associadas ao currículo.
+- **Página de Direcionamento**: Uma página adicional que serve como ponto de navegação para os repositórios do github.
 
 ## Estrutura do Repositório
 
+### HTML
+
 - **index.html**: Arquivo principal contendo a estrutura HTML do currículo.
-- **styles.css**: Arquivo de estilo responsável pela estilização das páginas, incluindo layout, cores, fontes e design dos cards.
+- **repo.html**: Página adicional que complementa o currículo, exibindo uma lista de repositórios ou detalhes específicos de projetos.
+
+### CSS
+
+- **css/main.css**: Arquivo principal de estilo, responsável pela estilização geral do currículo, incluindo layout, cores, tipografia e design dos elementos principais.
+- **css/repo.css**: Arquivo de estilo dedicado à página `repo.html`, contendo estilizações específicas para essa seção.
 
 ## Como Visualizar
 
